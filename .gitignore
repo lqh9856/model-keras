@@ -1,0 +1,6 @@
+.wgetrc
+.gitignore
+/dataset/
+/model-ckpt/
+/video_test/
+/.ipynb_checkpoints/
